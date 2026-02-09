@@ -15,8 +15,10 @@ I am a Developer focused on Backend technologies and Data Engineering logic. I e
 ---
 
 ### 📊 GitHub Stats
-![Fredy's Stats](https://github-readme-stats.vercel.app/api?username=FredyJhon&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredyJhon&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FredyJhon&show_icons=true&theme=tokyonight&hide_border=true" alt="Fredy's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredyJhon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 
