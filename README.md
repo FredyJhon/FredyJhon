@@ -14,10 +14,9 @@ I am a Developer focused on Backend technologies and Data Engineering logic. I e
 
 ---
 
-### 📊 GitHub Stats
+### 🤝 Connect with me
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FredyJhon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="John's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredyJhon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="150" />
+<a href="[https://www.linkedin.com/in/TU_USUARIO_LINKEDIN](https://www.linkedin.com/in/john-fredy-aroca-fernandez-b46614198/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fredy John" height="30" width="40" /></a>
 </p>
 
 ---
