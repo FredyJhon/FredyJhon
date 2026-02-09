@@ -1,4 +1,4 @@
-# Hi there, I'm Fredy! 👋🇨🇴
+# Hi there, I'm John! 👋🇨🇴
 
 ### 🚀 Backend Developer | Python Enthusiast
 
